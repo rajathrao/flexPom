@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18445" started-at="2018-11-02T23:15:00Z" finished-at="2018-11-02T23:15:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18445" started-at="2018-11-02T23:15:00Z" finished-at="2018-11-02T23:15:19Z">
+      <class name="com.flex.pageObjectModel.TestClasses.TestCases">
+        <test-method status="PASS" signature="intialzeThis()[pri:0, instance:com.flex.pageObjectModel.TestClasses.TestCases@68c4039c]" name="intialzeThis" is-config="true" duration-ms="13727" started-at="2018-11-02T23:15:00Z" finished-at="2018-11-02T23:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialzeThis -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.flex.pageObjectModel.TestClasses.TestCases@68c4039c]" name="init" duration-ms="3010" started-at="2018-11-02T23:15:14Z" finished-at="2018-11-02T23:15:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="enterUsernamePass(java.lang.String, java.lang.String)[pri:1, instance:com.flex.pageObjectModel.TestClasses.TestCases@68c4039c]" name="enterUsernamePass" duration-ms="730" started-at="2018-11-02T23:15:17Z" data-provider="newdata" finished-at="2018-11-02T23:15:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajathpanta@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Flexit123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUsernamePass -->
+        <test-method status="PASS" signature="closeThis()[pri:0, instance:com.flex.pageObjectModel.TestClasses.TestCases@68c4039c]" name="closeThis" is-config="true" duration-ms="934" started-at="2018-11-02T23:15:18Z" finished-at="2018-11-02T23:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeThis -->
+      </class> <!-- com.flex.pageObjectModel.TestClasses.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
